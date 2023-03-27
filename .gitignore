@@ -41,3 +41,7 @@ override.tf.json
 # credential directories
 
 credentials/
+
+# commands directory
+
+commands/
