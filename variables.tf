@@ -1,6 +1,6 @@
 locals {
-  region                = "asia-southeast1"
-  zone                  = "asia-southeast1-a"
+  region                = "us-east4"
+  zone                  = "us-east4-c"
   airbyte_machine_type  = "e2-small"
   metabase_machine_type = "e2-small"
   airflow_machine_type  = "e2-medium"
